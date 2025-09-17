@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and hardworking individual curren
 - 🔄 **Adaptable** – I embrace change and learn from every experience.
 - 🎩 **Fun Fact** – I know how to perform magic tricks! ✨
 
-### 🌱 Currently Learning
+### 🧠 Currently Learning
 
 I'm deepening my knowledge in software development, focusing on building robust, scalable, and cross-platform applications. My studies include:
 
@@ -45,8 +45,6 @@ I'm deepening my knowledge in software development, focusing on building robust,
   />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
 </picture>
-
-## 🧠 Top Languages
 
 <picture>
   <source
