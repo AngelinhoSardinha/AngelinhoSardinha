@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Angelinho Sardinha
+## Hi there 👋 I'm Angel Sardinha
 
 Welcome to my GitHub profile! I'm a passionate and hardworking individual currently studying **Multiplatform Application Development (DAM)**. I thrive in collaborative environments, adapt quickly to new challenges, and bring dedication to everything I do.
 
