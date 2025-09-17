@@ -1,19 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Angelinho Sardinha
 
-<!--
-**AngelinhoSardinha/AngelinhoSardinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and hardworking individual currently studying **Multiplatform Application Development (DAM)**. I thrive in collaborative environments, adapt quickly to new challenges, and bring dedication to everything I do.
 
-Here are some ideas to get you started:
+### 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Driven & Dedicated** – I believe in consistent effort and continuous learning.
+- 🤝 **Team Player** – I enjoy working with others and value the power of collaboration.
+- 🔄 **Adaptable** – I embrace change and learn from every experience.
+- 🎩 **Fun Fact** – I know how to perform magic tricks! ✨
+
+### 🌱 Currently Learning
+
+I'm deepening my knowledge in software development, focusing on building robust, scalable, and cross-platform applications. My studies include:
+
+- Object-Oriented Programming
+- Mobile and Desktop App Development
+- Databases and Backend Integration
+- UI/UX Design Principles
 
 ## ⚙️ Skills & Technologies
 
@@ -29,20 +32,22 @@ Here are some ideas to get you started:
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
+    srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
 </picture>
 
-<!-- TOP LANGS -->
+## 🧠 Top Languages
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelinhoSardinha&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
@@ -54,3 +59,7 @@ Here are some ideas to get you started:
   />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelinhoSardinha&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
 </picture>
+
+---
+
+Thanks for stopping by! Feel free to connect or collaborate — I'm always open to new ideas and challenges.
