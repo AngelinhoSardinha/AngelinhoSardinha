@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 <!-- GITHUB STATS -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
+    srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
+    srcset="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelinhoSardinha&show_icons=true" />
 </picture>
 
 <!-- TOP LANGS -->
