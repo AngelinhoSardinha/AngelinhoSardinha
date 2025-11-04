@@ -33,6 +33,12 @@ I'm deepening my knowledge in software development, focusing on building robust,
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?&style=for-the-badge&logo=android&logoColor=white)
+![ProofHub](https://img.shields.io/badge/ProofHub-FF6F61?&style=for-the-badge&logo=appveyor&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?&style=for-the-badge&logo=gradle&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=android&logoColor=white)
 
 ## 📊 GitHub Stats
 
